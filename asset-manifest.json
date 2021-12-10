@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ViDizayn/static/css/main.59a9beaa.chunk.css",
+    "main.js": "/ViDizayn/static/js/main.e0374c58.chunk.js",
+    "main.js.map": "/ViDizayn/static/js/main.e0374c58.chunk.js.map",
+    "runtime-main.js": "/ViDizayn/static/js/runtime-main.1dc3fce4.js",
+    "runtime-main.js.map": "/ViDizayn/static/js/runtime-main.1dc3fce4.js.map",
+    "static/css/2.d08a6827.chunk.css": "/ViDizayn/static/css/2.d08a6827.chunk.css",
+    "static/js/2.ddfc756b.chunk.js": "/ViDizayn/static/js/2.ddfc756b.chunk.js",
+    "static/js/2.ddfc756b.chunk.js.map": "/ViDizayn/static/js/2.ddfc756b.chunk.js.map",
+    "index.html": "/ViDizayn/index.html",
+    "static/css/2.d08a6827.chunk.css.map": "/ViDizayn/static/css/2.d08a6827.chunk.css.map",
+    "static/css/main.59a9beaa.chunk.css.map": "/ViDizayn/static/css/main.59a9beaa.chunk.css.map",
+    "static/js/2.ddfc756b.chunk.js.LICENSE.txt": "/ViDizayn/static/js/2.ddfc756b.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/ViDizayn/static/media/fsalbert_thin_italic-webfont.7ced3efa.ttf",
+    "static/media/slick-theme.css": "/ViDizayn/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dc3fce4.js",
+    "static/css/2.d08a6827.chunk.css",
+    "static/js/2.ddfc756b.chunk.js",
+    "static/css/main.59a9beaa.chunk.css",
+    "static/js/main.e0374c58.chunk.js"
+  ]
+}
